@@ -1,12 +1,16 @@
 {
-   "integrate": false,
-   "ship-it": false,
-   "test": false,
-   "bump-ee": true,
+    "integrate": false,
+    "ship-it": false,
+    "test": false,
+    "bump-ee": true,
     "label": {
         "enabled": true,
         "default": "Work In Progress",
         "pr-creator-can-apply": ["Ready For Review", "Work In Progress"]
     },
-    "pr-status-checks": true
+    "pr-status-checks": true,
+    "ship_it_label_status_check": {
+        "enabled": true,
+        "acceptable_labels": ["Ship-It"]
+    }
 }
