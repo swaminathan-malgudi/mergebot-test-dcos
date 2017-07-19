@@ -11,6 +11,6 @@
     "pr-status-checks": true,
     "ship_it_label_status_check": {
         "enabled": true,
-        "acceptable_labels": ["Ship-It"]
+        "acceptable_labels": ["Ship It"]
     }
 }
