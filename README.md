@@ -290,3 +290,4 @@ This repo contains the release and package building tools necessary to produce i
 ## Mergebot ship-it label testing
 
 - open PR
+- Commit change to PR with `Ship It` label
