@@ -291,3 +291,4 @@ This repo contains the release and package building tools necessary to produce i
 
 - open PR
 - Commit change to PR with `Ship It` label
+- Commit 2 change to PR with `Ship It` label
