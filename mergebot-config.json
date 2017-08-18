@@ -12,6 +12,6 @@
   "ship_it_label_status_check": {
     "enabled": true,
     "acceptable_labels": ["Ship It"],
-    "labels_to_remove_when_applying_ship_it": ["Ready for Review"]
+    "labels_to_remove_when_applying_ship_it": ["Ready For Review"]
   }
 }
