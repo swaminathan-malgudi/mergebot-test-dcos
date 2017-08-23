@@ -2,7 +2,8 @@
 
 * Have only major number branches like 1.7, 1.8, 1.9 and master.
 
-* Use git tag to tag releases like 1.10.0.beta1, 1.10.0.beta2 of master or 1.9.3. Use strictly incremental versions.
+* Use git tag to tag releases like 1.10.0.beta1, 1.10.0.beta2 of master or 1.9.3. 
+  * Use strictly incremental versions.
 
 * When 1.10 is GA, branch master to 1.10.0 to SHA that was released as GA.
 
