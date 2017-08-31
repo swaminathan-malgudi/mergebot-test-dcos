@@ -10,3 +10,5 @@
 * The master at that point is future 1.11.0 , and step 2 could continue for next iteration when 1.11.0 is released as GA.
 What do you think?
 
+* Add Change 1
+* Add Change 2
