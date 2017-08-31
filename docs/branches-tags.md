@@ -12,3 +12,4 @@ What do you think?
 
 * Add Change 1
 * Add Change 2
+* Add Changes 3
