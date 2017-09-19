@@ -243,4 +243,5 @@ Most of the triggered tests are required for merge, but some are optional (usual
 
 * Test Readme update.
 * Test 2
-* Test 3    
+* Test 3
+* Test 4
