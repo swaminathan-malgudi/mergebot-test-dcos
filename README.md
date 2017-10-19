@@ -242,3 +242,4 @@ Most of the triggered tests are required for merge, but some are optional (usual
 # Repo Structure
 
 * Testing Readme update.
+* Push an update. It should remove the ship-it label, and put it back to Ready for Review.
