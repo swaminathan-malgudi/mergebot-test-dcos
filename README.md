@@ -276,3 +276,4 @@ Most of the triggered tests are required for merge, but some are optional (usual
 * Test 33
 * Test 34
 * Test 35
+* Test 36
