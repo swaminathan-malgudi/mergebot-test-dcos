@@ -1,12 +1,3 @@
 {
-  "amitaekbote": {"slack": "amitaekbote"},
-  "adam-mesos": {"slack": "adam"},
-  "branden": {"slack": "branden"},
-  "lingmann": {"slack": "jeremy"},
-  "MatApple": {"slack": "mat"},
-  "mellenburg": {"slack": "mellenburg"},
-  "meichstedt": {"slack": "matthias.eichstedt"},
-  "orlandohohmeier": {"slack": "orlando"},
-  "orsenthil" : {"slack": "skumaran"},
-  "spahl": {"slack": "seb"}
+  "orsenthil" : {"slack": "skumaran", "jira": "skumaran"}
 }
